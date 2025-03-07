@@ -6,6 +6,8 @@ This repository contains notes for the Web Development Course
 
 ## 1. Core Web Concepts Week 1
 
+NOTES: Yooo Test branches are cool they show up in Github
+
 ### Full-Stack Overview
 
 - **Frontend:**
